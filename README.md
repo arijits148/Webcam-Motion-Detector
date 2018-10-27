@@ -11,11 +11,8 @@
 ### When moving object in front of the webcam
 
 
-![screenshot from 2018-10-27 10-27-08](https://user-images.githubusercontent.com/40036314/47599799-4abc9580-d9d3-11e8-821c-83bb6eaf165d.png)
 
 
 ### When no object in front of the webcam
 
-
-![screenshot from 2018-10-27 10-27-14](https://user-images.githubusercontent.com/40036314/47599803-56a85780-d9d3-11e8-91c2-526c27324331.png)
 
