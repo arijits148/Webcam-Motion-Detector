@@ -10,9 +10,12 @@
 
 ### When moving object in front of the webcam
 
+![screenshot from 2018-10-27 10-27-24](https://user-images.githubusercontent.com/40036314/47599833-14cbe100-d9d4-11e8-95a5-4e272513c3fa.png)
+
 
 
 
 ### When no object in front of the webcam
 
 
+![screenshot from 2018-10-27 10-27-14](https://user-images.githubusercontent.com/40036314/47599834-15647780-d9d4-11e8-8ece-e88548c1e48c.png)
