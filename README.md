@@ -5,3 +5,7 @@
 ## Requires:
    * Python
    * Open Source Computer Vision Library
+   
+## Output:
+
+### When moving object in front of the webcam
